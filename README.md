@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Bardia
 
-<!--
-**BardiaMC/BardiaMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on Minecraft modding, performance optimization, and web development.
+I created [Vanilla Motion](https://modrinth.com/modpack/vanilla-motion) — a lightweight, performance-focused Fabric modpack for Minecraft 1.21.1 under the brand BardiaMC.
+💻 What I work with
 
-Here are some ideas to get you started:
+    Minecraft Modding (Fabric)
+    Python
+    HTML / CSS / JavaScript
+    Web Development
+    Performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently
+
+    Improving and maintaining Vanilla Motion
+    Learning more about web development and clean UI
+    Exploring better ways to optimize Minecraft clients and servers
+
+Feel free to check out my projects. Always open to feedback and collaboration.
