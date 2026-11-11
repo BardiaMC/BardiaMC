@@ -1,19 +1,10 @@
-👋 Hi, I'm Bardia
+### Hey There! 👋
 
-I'm a developer focused on Minecraft modding, performance optimization, and web development.
-I created [Vanilla Motion](https://modrinth.com/modpack/vanilla-motion) — a lightweight, performance-focused Fabric modpack for Minecraft 1.21.1 under the brand BardiaMC.
-💻 What I work with
+I'm **BardiaMC** — a developer who mainly works on Minecraft modding, web development, and performance optimization. I created **Vanilla Motion**, a lightweight Fabric modpack.
 
-    Minecraft Modding (Fabric)
-    Python
-    HTML / CSS / JavaScript
-    Web Development
-    Performance optimization
+I enjoy learning by building things and figuring stuff out step by step.
 
-🎯 Currently
-
-    Improving and maintaining Vanilla Motion
-    Learning more about web development and clean UI
-    Exploring better ways to optimize Minecraft clients and servers
-
-Feel free to check out my projects. Always open to feedback and collaboration.
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96&animation=scale) ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=96&animation=scale) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96&animation=scale) ![java](https://www.readmecodegen.com/api/social-icon?name=java&size=96&animation=scale) ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=96&animation=scale) ![php](https://www.readmecodegen.com/api/social-icon?name=php&size=96&animation=scale)
+### ![arrowUp](https://www.readmecodegen.com/api/social-icon?name=arrowUp&size=24) this are my known langs
+![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=96&animation=scale) ![vscode](https://www.readmecodegen.com/api/social-icon?name=vscode&size=96&animation=scale) ![firefoxbrowser](https://www.readmecodegen.com/api/social-icon?name=firefoxbrowser&size=96&animation=scale)
+### ![arrowUp](https://www.readmecodegen.com/api/social-icon?name=arrowUp&size=24) this are my favorite software and apps
